@@ -28,5 +28,7 @@ To replicate what I did here are the steps you need to take
 
 ### Licensing Information
 This project is licensed under the [Apache License v2](https://www.apache.org/licenses/LICENSE-2.0)
+
 TravaJDK license information can be viewed here: https://github.com/TravaOpenJDK/trava-jdk-11-dcevm/blob/master/LICENSE
+
 AdoptOpenJDK license information can be viewed here: https://adoptopenjdk.net/about.html?variant=openjdk11&jvmVariant=hotspot
