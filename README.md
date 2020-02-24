@@ -25,3 +25,8 @@ To replicate what I did here are the steps you need to take
   4. Extract all downloaded files, to open the extracted files you may need to right click and select "Show Package Contents"
   5. Copy {TravaJDK Directory}/Contents/Home/lib/server/libjvm.dylib to {JRE Directory}/Contents/Home/lib/server/libjvm.dylib 
   6. Copy {AdoptOpenJDK Directory}/Contents/Home/lib/modules to {JRE Directory}/Contents/Home/lib/modules
+
+### Licensing Information
+This project is licensed under the [Apache License v2](https://www.apache.org/licenses/LICENSE-2.0)
+TravaJDK license information can be viewed here: https://github.com/TravaOpenJDK/trava-jdk-11-dcevm/blob/master/LICENSE
+AdoptOpenJDK license information can be viewed here: https://adoptopenjdk.net/about.html?variant=openjdk11&jvmVariant=hotspot
